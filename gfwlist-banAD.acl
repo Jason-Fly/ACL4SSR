@@ -585,30 +585,30 @@ alt8-mtalk\.google\.com$
 (^|\.)(pub|adm|jobsfe|po|pv|stat)\.funshion\.com$
 
 # iqiyi PPS 爱奇艺
-(^|\.)ad\.m\.iqiyi\.com$
-(^|\.)afp\.iqiyi\.com$
-(^|\.)c\.uaa\.iqiyi\.com$
-(^|\.)cloudpush\.iqiyi\.com$
-(^|\.)cm\.passport\.iqiyi\.com$
-(^|\.)cupid\.iqiyi\.com$
-(^|\.)emoticon\.sns\.iqiyi\.com$
-(^|\.)gamecenter\.iqiyi\.com$
-(^|\.)hotchat-im\.iqiyi\.com$
-(^|\.)ifacelog\.iqiyi\.com$
-(^|\.)mbdlog\.iqiyi\.com$
-(^|\.)meta\.video\.qiyi\.com$
-(^|\.)msg1\.video\.qiyi\.com$
-(^|\.)msg2\.video\.qiyi\.com$
-(^|\.)msg\.71\.am$
-(^|\.)paopao\.iqiyi\.com$
-(^|\.)paopao\d\.qiyipic\.com$
-(^|\.)policy\.video\.iqiyi\.com$
-(^|\.)yuedu\.iqiyi\.com$
-101.227.200.0/24
-101.227.200.11/32
-101.227.200.28/32
-101.227.97.240/32
-124.192.153.42/32
+#(^|\.)ad\.m\.iqiyi\.com$
+#(^|\.)afp\.iqiyi\.com$
+#(^|\.)c\.uaa\.iqiyi\.com$
+#(^|\.)cloudpush\.iqiyi\.com$
+#(^|\.)cm\.passport\.iqiyi\.com$
+#(^|\.)cupid\.iqiyi\.com$
+#(^|\.)emoticon\.sns\.iqiyi\.com$
+#(^|\.)gamecenter\.iqiyi\.com$
+#(^|\.)hotchat-im\.iqiyi\.com$
+#(^|\.)ifacelog\.iqiyi\.com$
+#(^|\.)mbdlog\.iqiyi\.com$
+#(^|\.)meta\.video\.qiyi\.com$
+#(^|\.)msg1\.video\.qiyi\.com$
+#(^|\.)msg2\.video\.qiyi\.com$
+#(^|\.)msg\.71\.am$
+#(^|\.)paopao\.iqiyi\.com$
+#(^|\.)paopao\d\.qiyipic\.com$
+#(^|\.)policy\.video\.iqiyi\.com$
+#(^|\.)yuedu\.iqiyi\.com$
+#101.227.200.0/24
+#101.227.200.11/32
+#101.227.200.28/32
+#101.227.97.240/32
+#124.192.153.42/32
 
 # Ku6 酷6
 (^|\.)gug\.ku6cdn\.com$
